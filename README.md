@@ -1,5 +1,12 @@
 This project is a chat application with event management features, allowing users to create, update, and delete events, as well as chat with other users. It includes user registration and login functionality and provides a calendar view for scheduling and managing events.
 
+
+https://github.com/user-attachments/assets/ab71295a-ec44-40b4-9489-f191c9170254
+- ![Ekran görüntüsü 2024-07-26 164221](https://github.com/user-attachments/assets/b288dc15-efe5-49cf-a4dd-8e6fd88cd350)
+![Ekran görüntüsü 2024-07-26 163526](https://github.com/user-attachments/assets/7a8e3bb3-e4df-4db0-a961-920c3a703c1b)
+
+![Ekran görüntüsü 2024-07-26 163233](https://github.com/user-attachments/assets/d4ea4f18-d66d-4008-9d41-7013532662ea)
+
 ## Technologies Used
 
 ### Backend
@@ -11,7 +18,7 @@ This project is a chat application with event management features, allowing user
 ### Frontend
 - **React**: JavaScript library for building user interfaces.
 
-https://github.com/user-attachments/assets/ab71295a-ec44-40b4-9489-f191c9170254
+
 
 
 - **Styled Components**: CSS-in-JS library for styling React components.
@@ -28,9 +35,6 @@ https://github.com/user-attachments/assets/ab71295a-ec44-40b4-9489-f191c9170254
 
 - Node.js
 - MongoDB
-- ![Ekran görüntüsü 2024-07-26 164221](https://github.com/user-attachments/assets/b288dc15-efe5-49cf-a4dd-8e6fd88cd350)
-![Ekran görüntüsü 2024-07-26 163526](https://github.com/user-attachments/assets/7a8e3bb3-e4df-4db0-a961-920c3a703c1b)
-![Ekran görüntüsü 2024-07-26 162911](https://github.com/user-attachments/assets/aee7c16e-47a1-48ce-9cb7-6b6f30911aa4)
 
 
 For Frontend.
