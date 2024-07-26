@@ -10,6 +10,10 @@ This project is a chat application with event management features, allowing user
 
 ### Frontend
 - **React**: JavaScript library for building user interfaces.
+
+https://github.com/user-attachments/assets/ab71295a-ec44-40b4-9489-f191c9170254
+
+
 - **Styled Components**: CSS-in-JS library for styling React components.
 - **Axios**: Library for making HTTP requests to the backend.
 
