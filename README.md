@@ -1,5 +1,25 @@
+This project is a chat application with event management features, allowing users to create, update, and delete events, as well as chat with other users. It includes user registration and login functionality and provides a calendar view for scheduling and managing events.
 
+## Technologies Used
 
+### Backend
+- **Node.js**: JavaScript runtime for server-side development.
+- **Express.js**: Web framework for building APIs and handling routes.
+- **MongoDB**: NoSQL database for storing user and event data.
+- **Mongoose**: ODM library for modeling MongoDB data with schemas.
+
+### Frontend
+- **React**: JavaScript library for building user interfaces.
+- **Styled Components**: CSS-in-JS library for styling React components.
+- **Axios**: Library for making HTTP requests to the backend.
+
+## Features
+
+- User registration and login.
+- Create, update, and delete events.
+- View events on a calendar.
+- Chat functionality between users.
+- Event management with participants.
 
 For Frontend.
 ```shell
