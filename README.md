@@ -28,6 +28,10 @@ https://github.com/user-attachments/assets/ab71295a-ec44-40b4-9489-f191c9170254
 
 - Node.js
 - MongoDB
+- ![Ekran görüntüsü 2024-07-26 164221](https://github.com/user-attachments/assets/b288dc15-efe5-49cf-a4dd-8e6fd88cd350)
+![Ekran görüntüsü 2024-07-26 163526](https://github.com/user-attachments/assets/7a8e3bb3-e4df-4db0-a961-920c3a703c1b)
+![Ekran görüntüsü 2024-07-26 162911](https://github.com/user-attachments/assets/aee7c16e-47a1-48ce-9cb7-6b6f30911aa4)
+
 
 For Frontend.
 ```shell
