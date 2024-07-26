@@ -20,6 +20,10 @@ This project is a chat application with event management features, allowing user
 - View events on a calendar.
 - Chat functionality between users.
 - Event management with participants.
+- ### Prerequisites
+
+- Node.js
+- MongoDB
 
 For Frontend.
 ```shell
